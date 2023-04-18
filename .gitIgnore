@@ -1,0 +1,3 @@
+# Fichero .gitIgnore
+# Java compiled classes directory
+bin/
