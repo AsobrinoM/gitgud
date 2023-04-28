@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package gitgud;
 import java.util.Scanner;
 public class github {
@@ -6,22 +6,7 @@ public class github {
 		Scanner input = new Scanner(System.in);
 		String ubicacionArchivo = input.next();
 		FUtil.existe(ubicacionArchivo);
-		
-	
+		System.out.println("Cambio");
+	input.close();
 	}
-	
 }
-=======
-package gitgud;
-import java.util.Scanner;
-public class github {
-	public static void main(String[]args) {
-		Scanner input = new Scanner(System.in);
-		String ubicacionArchivo = input.next();
-		FUtil.existe(ubicacionArchivo);
-		
-	
-	}
-	
-}
->>>>>>> main

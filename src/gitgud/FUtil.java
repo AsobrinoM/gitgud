@@ -15,5 +15,8 @@ public class FUtil {
 		
 		System.out.println(a_escribir);
 	}
+	public FUtil() {
+		System.out.println("FUtil iniciado");
+	}
 	}
 
